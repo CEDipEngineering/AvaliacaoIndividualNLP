@@ -1,0 +1,13 @@
+Feedback:
+Descricao inicial do dataset que esta sendo analisado e das manipulacoes que serao realizadas nele (excluir linhas, colunas etc)
+Explicar brevemente como foram obtidos os 10 exemplos de reviews positivos e negativos
+Alem da analise dos 10 exemplos de cada, fazer mais alguma análise mais abrangente para chegar na hipótese ex: ngramas mais comuns (e se esses 20 exemplos falavam sobre entrega prazo por sorte?)
+Definir melhor a hipotese (separar em mais hipoteses talvez? ex. dentro do prazo -> bons reviews, fora do prazo -> reviews ruins)
+Legendar os  eixos dos graficos
+Porque iniciou a analise com trigramas?
+Explicar melhor o grafico de probabilidade de ngrama por classe (acho que esse é o grafico central pra validar a hipotese)
+Reforçar no topico da conclusao se a(s) hipotese(s) foram confirmadas ou nao 
+Cuidado que a rúbrica especifica como devem ser separados os topicos está um pouco diferente doq o prof pediu
+
+
+
